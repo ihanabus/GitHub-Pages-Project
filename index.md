@@ -29,9 +29,9 @@
 - Nier Replicant
 
 #### Top 3 Games
-1. [Divinity: Original Sin 2](images/dos2.jpg)
-2. [Monster Hunter: World + Iceborne](images/mhw.jpg)
-3. [Sekiro: Shadows Die Twice](images/sekiro.jpg)
+1. [Divinity: Original Sin 2](../images/dos2.jpg)
+2. [Monster Hunter: World + Iceborne](../images/mhw.jpg)
+3. [Sekiro: Shadows Die Twice](../images/sekiro.jpg)
 
 #### My Bucket List
 - [ ] Graduate from university
