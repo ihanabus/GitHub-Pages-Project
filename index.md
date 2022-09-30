@@ -1,7 +1,7 @@
 # Ira Hanabusa
 #### Computer Engineering student at UC San Diego
 
-<img src="https://github.com/ihanabus/GitHub-Pages-Project/blob/main/images/main%20profile.jpg" height="300">
+<img src="https://github.com/ihanabus/GitHub-Pages-Project/blob/main/images/main%20profile.jpg" height="200">
 
 ## About me
 
@@ -64,7 +64,7 @@
 - My [LinkedIn](https://www.linkedin.com/in/ira-hanabusa-y6744) page (feel free to add me!)
 - My [GitHub](https://github.com/ihanabus) profile
 
-**Programmer turning into Software Engineer POV**
+#### Programmer turning into Software Engineer POV
 ```
 ⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠛⠛⠛⠋⠉⠈⠉⠉⠉⠉⠛⠻⢿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⡿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⢿⣿⣿⣿⣿
@@ -93,6 +93,23 @@
 ⣿⡿⠋⠁⠀⠀⢀⣀⣠⡴⣸⣿⣇⡄⠀⠀⠀⠀⢀⡿⠄⠙⠛⠀⣀⣠⣤⣤⠄
 
 ```
+
+#### My first program
+**Java**
+```
+import java.util.Scanner;
+
+public class hello {
+	public static void main(String args[]) {
+		Scanner userInput = new Scanner(System.in);
+		System.out.print("Enter username: ");
+		
+		String username = userInput.nextLine();
+		System.out.println("Hello, " + username);
+	}
+}
+```
+
 #### Sources
 - GitHub Docs for [writing and formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#relative-links)
 - Michael Polla for [image resizing in flavored markdown](https://gist.github.com/MichaelPolla/a65ac84286ab523603e64549f9850223)
