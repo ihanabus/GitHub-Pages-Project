@@ -1,7 +1,7 @@
 # Ira Hanabusa
 #### Computer Engineering student at UC San Diego
 
-![Picture of me](https://github.com/ihanabus/GitHub-Pages-Project/blob/main/images/main%20profile.jpg | height=300)
+![Picture of me](https://github.com/ihanabus/GitHub-Pages-Project/blob/main/images/main%20profile.jpg)
 
 ## About me
 
@@ -30,13 +30,13 @@
 
 **Top 3 Games**
 1. Divinity: Original Sin 2
-![dos2](https://github.com/ihanabus/GitHub-Pages-Project/blob/main/images/dos2.jpg | height=200)
+![dos2](https://github.com/ihanabus/GitHub-Pages-Project/blob/main/images/dos2.jpg)
 
-2. Monster Hunter: World
-![mhw](https://github.com/ihanabus/GitHub-Pages-Project/blob/main/images/mhw.jpg | height=200)
+1. Monster Hunter: World
+![mhw](https://github.com/ihanabus/GitHub-Pages-Project/blob/main/images/mhw.jpg)
 
 1. Sekiro
-![sekiro](https://github.com/ihanabus/GitHub-Pages-Project/blob/main/images/sekiro.jpg | height=200)
+![sekiro](https://github.com/ihanabus/GitHub-Pages-Project/blob/main/images/sekiro.jpg)
 
 **My Bucket List**
 - [ ] Graduate from university
@@ -62,7 +62,7 @@
 
 My [LinkedIn](https://www.linkedin.com/in/ira-hanabusa-y6744) page (feel free to add me!)
 
-Programmer turning into Software Engineer POV
+**Programmer turning into Software Engineer POV**
 ```
 ⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠛⠛⠛⠋⠉⠈⠉⠉⠉⠉⠛⠻⢿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⡿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⢿⣿⣿⣿⣿
