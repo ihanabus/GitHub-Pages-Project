@@ -64,7 +64,7 @@
 - My [LinkedIn](https://www.linkedin.com/in/ira-hanabusa-y6744) page (feel free to add me!)
 - My [GitHub](https://github.com/ihanabus) profile
 
-**Programmer turning into Software Engineer POV**
+#### Programmer turning into Software Engineer POV
 ```
 ⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠛⠛⠛⠋⠉⠈⠉⠉⠉⠉⠛⠻⢿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⡿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⢿⣿⣿⣿⣿
@@ -94,15 +94,20 @@
 
 ```
 
-**Issue I noticed with Markdown**
-Example
+#### My first program
+**Java**
 ```
-**<stylized text here>**
-<plain text here>
+import java.util.Scanner;
 
-/*
- * 
- */ 
+public class hello {
+	public static void main(String args[]) {
+		Scanner userInput = new Scanner(System.in);
+		System.out.print("Enter username: ");
+		
+		String username = userInput.nextLine();
+		System.out.println("Hello, " + username);
+	}
+}
 ```
 
 #### Sources
