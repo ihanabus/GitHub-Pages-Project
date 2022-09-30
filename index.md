@@ -1,7 +1,7 @@
 # Ira Hanabusa
 #### Computer Engineering student at UC San Diego
 
-<img src="./images/main-profile.jpg" height="200">
+<img src="images/main profile.jpg" height="200">
 
 ## About me
 
@@ -31,15 +31,15 @@
 #### Top 3 Games
 1. Divinity: Original Sin 2
 
-![dos2](./images/dos2.jpg)
+![dos2](images/dos2.jpg)
 
 1. Monster Hunter: World + Iceborne
 
-![mhw](./images/mhw.jpg)
+![mhw](images/mhw.jpg)
 
 1. Sekiro: Shadows Die Twice
 
-![sekiro](./images/sekiro.jpg)
+![sekiro](images/sekiro.jpg)
 
 #### My Bucket List
 - [ ] Graduate from university
