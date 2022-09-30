@@ -1,7 +1,7 @@
 # Ira Hanabusa
 #### Computer Engineering student at UC San Diego
 
-<img src="https://github.com/ihanabus/GitHub-Pages-Project/blob/839851b89d640036f0f843f8f650c4ad09003b6f/images/main%20profile.jpg" height="200">
+![My Profile](https://github.com/ihanabus/GitHub-Pages-Project/blob/main/images/main%20profile.jpg)
 
 ## About me
 
@@ -104,7 +104,5 @@ public class hello {
 
 #### Sources
 - GitHub Docs for [writing and formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#relative-links)
-- Michael Polla for [image resizing in flavored markdown](https://gist.github.com/MichaelPolla/a65ac84286ab523603e64549f9850223)
-
 
 [Return to top](#ira-hanabusa)
