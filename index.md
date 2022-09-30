@@ -1,7 +1,7 @@
 # Ira Hanabusa
 #### Computer Engineering student at UC San Diego
 
-![My Profile](https://github.com/ihanabus/GitHub-Pages-Project/blob/main/images/profile.jpg)
+![My Profile](https://media-exp1.licdn.com/dms/image/C4E03AQEEgrINNPur_w/profile-displayphoto-shrink_400_400/0/1634783472675?e=1669852800&v=beta&t=EQ9OYBKaNgyTtLrhxzIy4NI36yfPwim3-dmG6Zklcko)
 
 ## About me
 
