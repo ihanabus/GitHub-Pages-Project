@@ -1,7 +1,7 @@
 # Ira Hanabusa
 #### Computer Engineering student at UC San Diego
 
-<img src="./images/main-profile.jpg" height="200">
+<img src="https://github.com/ihanabus/GitHub-Pages-Project/blob/839851b89d640036f0f843f8f650c4ad09003b6f/images/main%20profile.jpg" height="200">
 
 ## About me
 
@@ -29,17 +29,9 @@
 - Nier Replicant
 
 #### Top 3 Games
-1. Divinity: Original Sin 2
-
-![dos2](./images/dos2.jpg)
-
-1. Monster Hunter: World + Iceborne
-
-![mhw](./images/mhw.jpg)
-
-1. Sekiro: Shadows Die Twice
-
-![sekiro](./images/sekiro.jpg)
+1. [Divinity: Original Sin 2](https://github.com/ihanabus/GitHub-Pages-Project/blob/main/images/dos2.jpg)
+2. [Monster Hunter: World + Iceborne](https://github.com/ihanabus/GitHub-Pages-Project/blob/main/images/mhw.jpg)
+3. [Sekiro: Shadows Die Twice](https://github.com/ihanabus/GitHub-Pages-Project/blob/main/images/sekiro.jpg)
 
 #### My Bucket List
 - [ ] Graduate from university
