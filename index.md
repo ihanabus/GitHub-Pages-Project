@@ -30,12 +30,15 @@
 
 **Top 3 Games**
 1. Divinity: Original Sin 2
+
 ![dos2](https://github.com/ihanabus/GitHub-Pages-Project/blob/main/images/dos2.jpg)
 
-1. Monster Hunter: World
+2. Monster Hunter: World
+
 ![mhw](https://github.com/ihanabus/GitHub-Pages-Project/blob/main/images/mhw.jpg)
 
-1. Sekiro
+3. Sekiro
+
 ![sekiro](https://github.com/ihanabus/GitHub-Pages-Project/blob/main/images/sekiro.jpg)
 
 **My Bucket List**
@@ -60,7 +63,7 @@
 
 **Links**
 
-My [LinkedIn](https://www.linkedin.com/in/ira-hanabusa-y6744) page (feel free to add me!)
+- My [LinkedIn](https://www.linkedin.com/in/ira-hanabusa-y6744) page (feel free to add me!)
 
 **Programmer turning into Software Engineer POV**
 ```
