@@ -1,7 +1,7 @@
 # Ira Hanabusa
 #### Computer Engineering student at UC San Diego
 
-<img src="https://github.com/ihanabus/GitHub-Pages-Project/main/images/main%20profile.jpg" height="200">
+<img src="https://github.com/ihanabus/GitHub-Pages-Project/blob/8c7a261e7972652ddad887472247367ed9604841/images/main%20profile.jpg" height="200">
 
 ## About me
 
@@ -35,11 +35,11 @@
 
 1. Monster Hunter: World + Iceborne
 
-![mhw](https://github.com/ihanabus/GitHub-Pages-Project/main/images/mhw.jpg)
+![mhw](https://github.com/ihanabus/GitHub-Pages-Project/blob/8c7a261e7972652ddad887472247367ed9604841/images/mhw.jpg)
 
 1. Sekiro: Shadows Die Twice
 
-![sekiro](https://github.com/ihanabus/GitHub-Pages-Project/main/images/sekiro.jpg)
+![sekiro](https://github.com/ihanabus/GitHub-Pages-Project/blob/8c7a261e7972652ddad887472247367ed9604841/images/sekiro.jpg)
 
 #### My Bucket List
 - [ ]  Graduate from university
