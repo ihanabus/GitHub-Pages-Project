@@ -1,7 +1,7 @@
 # Ira Hanabusa
 #### Computer Engineering student at UC San Diego
 
-![My Profile](./images/main-profile.jpg)
+![My Profile](./images/profile.jpg)
 
 ## About me
 
