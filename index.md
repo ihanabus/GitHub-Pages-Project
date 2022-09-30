@@ -1,7 +1,7 @@
 # Ira Hanabusa
 #### Computer Engineering student at UC San Diego
 
-<img src="https://github.com/ihanabus/GitHub-Pages-Project/blob/main/images/main%20profile.jpg" height="200">
+<img src="https://github.com/ihanabus/GitHub-Pages-Project/blob/8c7a261e7972652ddad887472247367ed9604841/images/main%20profile.jpg" height="200">
 
 ## About me
 
@@ -31,23 +31,23 @@
 #### Top 3 Games
 1. Divinity: Original Sin 2
 
-![dos2](https://github.com/ihanabus/GitHub-Pages-Project/blob/main/images/dos2.jpg)
+![dos2](https://github.com/ihanabus/GitHub-Pages-Project/blob/8c7a261e7972652ddad887472247367ed9604841/images/dos2.jpg)
 
-2. Monster Hunter: World + Iceborne
+1. Monster Hunter: World + Iceborne
 
-![mhw](https://github.com/ihanabus/GitHub-Pages-Project/blob/main/images/mhw.jpg)
+![mhw](https://github.com/ihanabus/GitHub-Pages-Project/blob/8c7a261e7972652ddad887472247367ed9604841/images/mhw.jpg)
 
-3. Sekiro: Shadows Die Twice
+1. Sekiro: Shadows Die Twice
 
-![sekiro](https://github.com/ihanabus/GitHub-Pages-Project/blob/main/images/sekiro.jpg)
+![sekiro](https://github.com/ihanabus/GitHub-Pages-Project/blob/8c7a261e7972652ddad887472247367ed9604841/images/sekiro.jpg)
 
 #### My Bucket List
-- [ ] Graduate from university
-- [ ] Go skydiving
-- [ ] Get good at surfing
-- [ ] Get good at snowboarding
-- [ ] Get pretty good at piano
-- [ ] Maybe guitar
+- [ ]  Graduate from university
+- [ ]  Go skydiving
+- [ ]  Get good at surfing
+- [ ]  Get good at snowboarding
+- [ ]  Get pretty good at piano
+- [ ]  Maybe guitar
 
 #### Favorite Quote
 > "Stay strapped or get clapped." - _Sun Tzu_, probably
