@@ -1,7 +1,7 @@
 # Ira Hanabusa
 #### Computer Engineering student at UC San Diego
 
-![Picture of me](https://github.com/ihanabus/GitHub-Pages-Project/blob/main/images/main%20profile.jpg)
+![Picture of me](https://github.com/ihanabus/GitHub-Pages-Project/blob/main/images/main%20profile.jpg | height=300)
 
 ## About me
 
@@ -30,10 +30,15 @@
 
 **Top 3 Games**
 1. Divinity: Original Sin 2
-2. Monster Hunter: World
-3. Sekiro
+![dos2](https://github.com/ihanabus/GitHub-Pages-Project/blob/main/images/dos2.jpg | height=200)
 
-**Bucket List**
+2. Monster Hunter: World
+![mhw](https://github.com/ihanabus/GitHub-Pages-Project/blob/main/images/mhw.jpg | height=200)
+
+1. Sekiro
+![sekiro](https://github.com/ihanabus/GitHub-Pages-Project/blob/main/images/sekiro.jpg | height=200)
+
+**My Bucket List**
 - [ ] Graduate from university
 - [ ] Go skydiving
 - [ ] Get good at surfing
@@ -54,9 +59,10 @@
 ## Extras
 
 **Links**
-My [LinkedIn](www.linkedin.com/in/ira-hanabusa-y6744) page (feel free to add me!)
 
+My [LinkedIn](https://www.linkedin.com/in/ira-hanabusa-y6744) page (feel free to add me!)
 
+Programmer turning into Software Engineer POV
 ```
 ⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠛⠛⠛⠋⠉⠈⠉⠉⠉⠉⠛⠻⢿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⡿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⢿⣿⣿⣿⣿
@@ -85,5 +91,8 @@ My [LinkedIn](www.linkedin.com/in/ira-hanabusa-y6744) page (feel free to add me!
 ⣿⡿⠋⠁⠀⠀⢀⣀⣠⡴⣸⣿⣇⡄⠀⠀⠀⠀⢀⡿⠄⠙⠛⠀⣀⣠⣤⣤⠄
 
 ```
+**Sources**
+- GitHub Docs for [writing and formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#relative-links)
+- uupaa for [image resizing in flavored markdown](https://gist.github.com/uupaa/f77d2bcf4dc7a294d109)v
 
 [Return to top](#ira-hanabusa)
