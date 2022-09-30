@@ -1,47 +1,47 @@
 # Ira Hanabusa
 #### Computer Engineering student at UC San Diego
 
-![Picture of me](https://github.com/ihanabus/GitHub-Pages-Project/blob/main/images/main%20profile.jpg)
+<img src="https://github.com/ihanabus/GitHub-Pages-Project/blob/main/images/main%20profile.jpg" height="300">
 
 ## About me
 
-**Background**
+### Background
 > Hello!
-> I'm a Japanese American who enjoys playing video games solo and with friends.
+> I'm a Japanese American who enjoys playing [video games](#recently-played-games) solo and with friends.
 > Computers naturally became an interest to me while being surrounded with tech.
 > I plan to become more adept with using software development tools while honing my 
 > application of algorithm deisgn and data structures.
 
-**Hobbies**
+#### Hobbies
 - Gaming 
   - PC
   - Nintendo Switch
-  - PSP (probably broken)
+  - PSP (~~probably broken~~)
 - Sports/Activities
   - Soccer
   - Badminton
   - Swimming
   - Hiking
 
-**Recently Played Games**
+#### Recently Played Games
 - Splatoon 3 
-- Sekiro
+- Sekiro: Shadows Die Twice
 - Nier Replicant
 
-**Top 3 Games**
+#### Top 3 Games
 1. Divinity: Original Sin 2
 
 ![dos2](https://github.com/ihanabus/GitHub-Pages-Project/blob/main/images/dos2.jpg)
 
-2. Monster Hunter: World
+2. Monster Hunter: World + Iceborne
 
 ![mhw](https://github.com/ihanabus/GitHub-Pages-Project/blob/main/images/mhw.jpg)
 
-3. Sekiro
+3. Sekiro: Shadows Die Twice
 
 ![sekiro](https://github.com/ihanabus/GitHub-Pages-Project/blob/main/images/sekiro.jpg)
 
-**My Bucket List**
+#### My Bucket List
 - [ ] Graduate from university
 - [ ] Go skydiving
 - [ ] Get good at surfing
@@ -49,21 +49,20 @@
 - [ ] Get pretty good at piano
 - [ ] Maybe guitar
 
-**Favorite Quote**
+#### Favorite Quote
 > "Stay strapped or get clapped." - _Sun Tzu_, probably
 
-**Programming Languages**
+#### Programming Languages
 - Java
 - C/C++
 - A bit of Python
 - Not so much MATLAB
 
-
 ## Extras
 
-**Links**
-
+#### Links
 - My [LinkedIn](https://www.linkedin.com/in/ira-hanabusa-y6744) page (feel free to add me!)
+- My [GitHub](https://github.com/ihanabus) profile
 
 **Programmer turning into Software Engineer POV**
 ```
@@ -94,8 +93,9 @@
 ⣿⡿⠋⠁⠀⠀⢀⣀⣠⡴⣸⣿⣇⡄⠀⠀⠀⠀⢀⡿⠄⠙⠛⠀⣀⣠⣤⣤⠄
 
 ```
-**Sources**
+#### Sources
 - GitHub Docs for [writing and formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#relative-links)
-- uupaa for [image resizing in flavored markdown](https://gist.github.com/uupaa/f77d2bcf4dc7a294d109)v
+- Michael Polla for [image resizing in flavored markdown](https://gist.github.com/MichaelPolla/a65ac84286ab523603e64549f9850223)
+
 
 [Return to top](#ira-hanabusa)
